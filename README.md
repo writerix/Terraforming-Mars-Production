@@ -30,4 +30,4 @@ Google Sheets macro to track player incomes and run production phase
   }
 }
 ```
-5. When running the macro the first time you will be asked to grant permission for the script to run.
+5. When running the macro for the first time you will be asked to grant permission for the script to run.
