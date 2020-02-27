@@ -2,7 +2,7 @@
 Google Sheets macro to track player incomes and run production phase
 
 ## Background
-[Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) is a board game for 1 to 5 players. A key component of the game involves strategically acquiring and spending resources. Using a spreadsheet to record stored resource income and income rates offers the following advantages:
+[Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) is a board game for 1 to 5 players. A key component of the game involves strategically acquiring and spending resources. Using a shared online spreadsheet to record stored resource income and income rates offers the following advantages:
 * Players can easily see opponents' incomes helping to make strategic decisions. It can be difficult to precisely determine this publicly available information with resource cubes, especially when seated around a large table.
 * Income rates are less likely to change by accident. Personal experience has shown how easy it is for players to accidentally knock the cubes out of place.
 * Makes production phase faster. Moving resource cubes by hand is a slow process. This macro can run production phase in approximately half a second.
